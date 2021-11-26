@@ -1,0 +1,7 @@
+{
+    "editor.formatOnType": true,
+    "editor.bracketPairColorization.enabled": true,
+    "window.zoomLevel": 1,
+    "editor.accessibilityPageSize": 8,
+    "workbench.colorTheme": "Community Material Theme Palenight High Contrast"
+}
